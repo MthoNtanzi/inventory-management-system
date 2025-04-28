@@ -1,7 +1,3 @@
-Sure! Here's the updated `README.md` with a section for the use case diagram:
-
----
-
 # 📦 Inventory Management System
 
 A simple yet powerful Inventory Management System designed to help small to medium-sized businesses efficiently track stock, manage products, and streamline sales reporting.
